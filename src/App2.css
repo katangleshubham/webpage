@@ -1,0 +1,82 @@
+@media screen and (max-width: 600px) {
+    .box{
+      postion:relative;
+    
+    
+    }
+    
+    .formidt{
+      
+      max-width: 50%;
+      position: absolute;
+      margin: auto;
+      top: 120px;
+     
+      left: 156px;
+    }
+    
+    .form-control{
+      max-width: 200px;
+    }
+    #header1{
+      
+     height:295px;
+    }
+    #displayText1{
+      font-family: Righteous ;
+      width:400px;
+    text-align: left;
+    }
+  
+  
+    #cont1{
+      width:350px;
+      height:430px;
+    
+      margin-top:0rem;
+    
+      border-radius: 20px;
+      background-color :#ff6700;
+      
+    }
+    #col-3{
+      width:400px;
+     
+    }
+    .text1{
+      text-align: center;
+    }
+    .para1{
+      text-align: center;
+    }
+    .col-9{
+      flex-direction: row;
+      margin:auto;
+      padding: 0px;
+      
+      
+     }
+     .row{
+       flex-direction:column;
+     }
+     #cdtime{
+       width:200px;
+     }
+     .timeRow{
+       width:60px;
+  margin:0.3rem;
+       padding:30px;
+     }
+    .timeHd{
+      padding: 15px;
+    }
+    #cdtime2{
+      padding-left: 4px;margin-left: 15px;
+    }
+    }
+    /*container cards*/
+    #container-cards{
+      margin-right: 0.1rem;
+       margin-top: 5rem;
+       margin-left:3.5rem;
+     }
